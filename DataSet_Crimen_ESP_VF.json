@@ -5,7 +5,7 @@
       "Parametro": "Agresión sexual con penetración",
       "Valorcantidad": 138,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 4.75
+      "Tasaxcienmilcrimenes": 4.75
     },
     {
       "Agno": 2017,
@@ -13,7 +13,7 @@
       "Parametro": "Homicidios dolosos y asesinatos consumados",
       "Valorcantidad": 310,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 3.07
+      "Tasaxcienmilcrimenes": 3.07
     },
     {
       "Agno": 2017,
@@ -21,7 +21,7 @@
       "Parametro": "Hurtos",
       "Valorcantidad": 712,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 2.50
+      "Tasaxcienmilcrimenes": 2.50
     },
     {
       "Agno": 2017,
@@ -29,7 +29,7 @@
       "Parametro": "Robos con fuerza en domicilios, establecimientos y otras instalaciones",
       "Valorcantidad": 145,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 7.68
+      "Tasaxcienmilcrimenes": 7.68
     },
     {
       "Agno": 2017,
@@ -37,7 +37,7 @@
       "Parametro": "Robos con violencia e intimidación",
       "Valorcantidad": 617,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 4.25
+      "Tasaxcienmilcrimenes": 4.25
     },
     {
       "Agno": 2017,
@@ -45,7 +45,7 @@
       "Parametro": "Secuestro",
       "Valorcantidad": 69,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 4.85
+      "Tasaxcienmilcrimenes": 4.85
     },
     {
       "Agno": 2017,
@@ -53,7 +53,7 @@
       "Parametro": "Sustracciones de vehículos",
       "Valorcantidad": 425,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 5.36
+      "Tasaxcienmilcrimenes": 5.36
     },
     {
       "Agno": 2017,
@@ -61,6 +61,6 @@
       "Parametro": "Tráfico de drogas",
       "Valorcantidad": 129,
       "Estado": "Definitivo",
-      "NotasdeUbicación": 6.23
+      "Tasaxcienmilcrimenes": 6.23
     }
   ]
